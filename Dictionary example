@@ -1,0 +1,8 @@
+print("\n===DICTIONARY EXAMPLE===")
+employee={
+  "name":"Balu",
+  "id":1234,
+  "salary":100000,
+  "department":["Engineering"]
+ }
+print("Dictionary:", employee)
